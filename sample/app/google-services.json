@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "719233157951",
+    "firebase_url": "https://sentilab-e548c.firebaseio.com",
+    "project_id": "sentilab-e548c",
+    "storage_bucket": "sentilab-e548c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719233157951:android:0c09b6b16550c9ec4fa18a",
+        "android_client_info": {
+          "package_name": "com.example.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719233157951-9rmrjg73nht8ocofe4o4tklrvdk06u8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiaXgP7JeMTtpbMUHhDB2sXLFTDJJpQwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719233157951-9rmrjg73nht8ocofe4o4tklrvdk06u8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
